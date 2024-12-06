@@ -37,7 +37,9 @@ docker-compose up -d
     
     * CLI: `docker exec -it vault /bin/sh`
 
-5. Para parar os contêineres, execute:
+5. Token para acesso ao vault é `myroot`.
+
+6. Para parar os contêineres, execute:
 
 ```
 docker-compose down
